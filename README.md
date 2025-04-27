@@ -11,11 +11,13 @@ Key Performance Indicators (KPIs) Requirements:
 5.	Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD, and track Month-over-Month (MoM) fluctuations.
 
 Good Loan vs Bad Loan KPI’s
+
 Good Loan:
 1.	Good Loan Application Percentage
 2.	Good Loan Applications
 3.	Good Loan Funded Amount
 4.	Good Loan Total Received Amount
+
 Bad Loan
 1.	Bad Loan Application Percentage
 2.	Bad Loan Applications
